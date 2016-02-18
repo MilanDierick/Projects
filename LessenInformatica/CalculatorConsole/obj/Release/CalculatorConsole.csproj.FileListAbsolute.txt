@@ -1,0 +1,4 @@
+C:\Users\milan\OneDrive\Dokumente\Visual Studio 2015\Projects\LessenInformatica\CalculatorConsole\bin\Release\CalculatorConsole.exe.config
+C:\Users\milan\OneDrive\Dokumente\Visual Studio 2015\Projects\LessenInformatica\CalculatorConsole\obj\Release\CalculatorConsole.csprojResolveAssemblyReference.cache
+C:\Users\milan\OneDrive\Dokumente\Visual Studio 2015\Projects\LessenInformatica\CalculatorConsole\obj\Release\CalculatorConsole.exe
+C:\Users\milan\OneDrive\Dokumente\Visual Studio 2015\Projects\LessenInformatica\CalculatorConsole\obj\Release\CalculatorConsole.pdb

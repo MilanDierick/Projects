@@ -1,0 +1,44 @@
+﻿[metadata]
+
+***************************************************************************************************************************************************************
+
+16/02/2016 20:10 created by Milan Dierick
+Zevenkerken 4 8200 Sint-Andries West-Vlaanderen België
+
+***************************************************************************************************************************************************************
+
+
+PlayerClass
+	managing player-specific vars
+		health
+		shields
+		crew
+		Max_ variants included
+	feature for moving player to different sites
+	ability to attack a target
+	managing levels and upgrades
+		item upgrades?
+
+LocationClass
+	predefined map
+	navigation between sites
+	north, south, east, west
+	feature for storing quests, monsters and loot on a site
+	
+QuestClass
+	different kinds of quests
+	feature for managing active quests
+	ability to cancel quests
+	managing items needed for quest completion
+	
+ItemClass
+	item ID for each item
+	different kinds of items
+		weapons
+		potions
+		questitems
+
+WorldClass
+	
+		
+	 

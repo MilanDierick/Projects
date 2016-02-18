@@ -1,0 +1,14 @@
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatWPFGames\GreatAdventure\bin\Debug\GreatAdventure.exe.config
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatWPFGames\GreatAdventure\bin\Debug\GreatAdventure.exe
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatWPFGames\GreatAdventure\bin\Debug\GreatAdventure.pdb
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatWPFGames\GreatAdventure\obj\Debug\GreatAdventure.csprojResolveAssemblyReference.cache
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatWPFGames\GreatAdventure\obj\Debug\MainWindow.g.cs
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatWPFGames\GreatAdventure\obj\Debug\App.g.cs
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatWPFGames\GreatAdventure\obj\Debug\GreatAdventure_MarkupCompile.cache
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatWPFGames\GreatAdventure\obj\Debug\GreatAdventure_MarkupCompile.lref
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatWPFGames\GreatAdventure\obj\Debug\MainWindow.baml
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatWPFGames\GreatAdventure\obj\Debug\GreatAdventure.g.resources
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatWPFGames\GreatAdventure\obj\Debug\GreatAdventure.Properties.Resources.resources
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatWPFGames\GreatAdventure\obj\Debug\GreatAdventure.csproj.GenerateResource.Cache
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatWPFGames\GreatAdventure\obj\Debug\GreatAdventure.exe
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatWPFGames\GreatAdventure\obj\Debug\GreatAdventure.pdb

@@ -1,0 +1,6 @@
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\ConsoleSolution\Out There Omega Edition Private\bin\Debug\Out There Omega Edition Private.exe.config
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\ConsoleSolution\Out There Omega Edition Private\bin\Debug\Out There Omega Edition Private.exe
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\ConsoleSolution\Out There Omega Edition Private\bin\Debug\Out There Omega Edition Private.pdb
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\ConsoleSolution\Out There Omega Edition Private\obj\Debug\Out There Omega Edition Private.csprojResolveAssemblyReference.cache
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\ConsoleSolution\Out There Omega Edition Private\obj\Debug\Out There Omega Edition Private.exe
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\ConsoleSolution\Out There Omega Edition Private\obj\Debug\Out There Omega Edition Private.pdb

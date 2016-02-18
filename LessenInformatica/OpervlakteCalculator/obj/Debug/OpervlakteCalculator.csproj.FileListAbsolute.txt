@@ -1,0 +1,6 @@
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\OpervlakteCalculator\bin\Debug\OpervlakteCalculator.exe.config
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\OpervlakteCalculator\bin\Debug\OpervlakteCalculator.exe
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\OpervlakteCalculator\bin\Debug\OpervlakteCalculator.pdb
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\OpervlakteCalculator\obj\Debug\OpervlakteCalculator.csprojResolveAssemblyReference.cache
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\OpervlakteCalculator\obj\Debug\OpervlakteCalculator.exe
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\OpervlakteCalculator\obj\Debug\OpervlakteCalculator.pdb

@@ -1,0 +1,8 @@
+C:\Users\milan\OneDrive\Dokumente\Visual Studio 2015\Projects\LessenInformatica\CalculatorWFA\bin\Release\CalculatorWFA.exe.config
+C:\Users\milan\OneDrive\Dokumente\Visual Studio 2015\Projects\LessenInformatica\CalculatorWFA\bin\Release\CalculatorWFA.exe
+C:\Users\milan\OneDrive\Dokumente\Visual Studio 2015\Projects\LessenInformatica\CalculatorWFA\bin\Release\CalculatorWFA.pdb
+C:\Users\milan\OneDrive\Dokumente\Visual Studio 2015\Projects\LessenInformatica\CalculatorWFA\obj\Release\CalculatorWFA.csprojResolveAssemblyReference.cache
+C:\Users\milan\OneDrive\Dokumente\Visual Studio 2015\Projects\LessenInformatica\CalculatorWFA\obj\Release\CalculatorWFA.Properties.Resources.resources
+C:\Users\milan\OneDrive\Dokumente\Visual Studio 2015\Projects\LessenInformatica\CalculatorWFA\obj\Release\CalculatorWFA.csproj.GenerateResource.Cache
+C:\Users\milan\OneDrive\Dokumente\Visual Studio 2015\Projects\LessenInformatica\CalculatorWFA\obj\Release\CalculatorWFA.exe
+C:\Users\milan\OneDrive\Dokumente\Visual Studio 2015\Projects\LessenInformatica\CalculatorWFA\obj\Release\CalculatorWFA.pdb
