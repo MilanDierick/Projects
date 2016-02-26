@@ -6,3 +6,7 @@ C:\Users\milan\OneDrive\Dokumente\Visual Studio 2015\Projects\LessenInformatica\
 C:\Users\milan\OneDrive\Dokumente\Visual Studio 2015\Projects\LessenInformatica\CalculatorConsole\obj\Debug\CalculatorConsole.csprojResolveAssemblyReference.cache
 C:\Users\milan\OneDrive\Dokumente\Visual Studio 2015\Projects\LessenInformatica\CalculatorConsole\obj\Debug\CalculatorConsole.exe
 C:\Users\milan\OneDrive\Dokumente\Visual Studio 2015\Projects\LessenInformatica\CalculatorConsole\obj\Debug\CalculatorConsole.pdb
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\CalculatorConsole\bin\Debug\CalculatorConsole.exe.manifest
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\CalculatorConsole\bin\Debug\CalculatorConsole.application
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\CalculatorConsole\obj\Debug\CalculatorConsole.exe.manifest
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\CalculatorConsole\obj\Debug\CalculatorConsole.application

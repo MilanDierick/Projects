@@ -1,0 +1,9 @@
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\Rekenmachine\bin\Debug\Rekenmachine.exe.config
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\Rekenmachine\bin\Debug\Rekenmachine.exe
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\Rekenmachine\bin\Debug\Rekenmachine.pdb
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\Rekenmachine\obj\Debug\Rekenmachine.csprojResolveAssemblyReference.cache
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\Rekenmachine\obj\Debug\Rekenmachine.Properties.Resources.resources
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\Rekenmachine\obj\Debug\Rekenmachine.csproj.GenerateResource.Cache
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\Rekenmachine\obj\Debug\Rekenmachine.exe
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\Rekenmachine\obj\Debug\Rekenmachine.pdb
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\Rekenmachine\obj\Debug\Rekenmachine.Form1.resources
