@@ -7,3 +7,5 @@ C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\
 C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\Rekenmachine\obj\Debug\Rekenmachine.exe
 C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\Rekenmachine\obj\Debug\Rekenmachine.pdb
 C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\Rekenmachine\obj\Debug\Rekenmachine.Form1.resources
+C:\Users\milan\OneDrive\Dokumente\Visual Studio 2015\Projects\LessenInformatica\Rekenmachine\bin\Debug\Engine.dll
+C:\Users\milan\OneDrive\Dokumente\Visual Studio 2015\Projects\LessenInformatica\Rekenmachine\bin\Debug\Engine.pdb

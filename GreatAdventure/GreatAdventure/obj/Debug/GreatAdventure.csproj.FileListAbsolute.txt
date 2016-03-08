@@ -1,8 +1,0 @@
-c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatAdventure\GreatAdventure\bin\Debug\GreatAdventure.exe.config
-c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatAdventure\GreatAdventure\bin\Debug\GreatAdventure.exe
-c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatAdventure\GreatAdventure\bin\Debug\GreatAdventure.pdb
-c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatAdventure\GreatAdventure\obj\Debug\GreatAdventure.csprojResolveAssemblyReference.cache
-c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatAdventure\GreatAdventure\obj\Debug\GreatAdventure.Properties.Resources.resources
-c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatAdventure\GreatAdventure\obj\Debug\GreatAdventure.csproj.GenerateResource.Cache
-c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatAdventure\GreatAdventure\obj\Debug\GreatAdventure.exe
-c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\GreatAdventure\GreatAdventure\obj\Debug\GreatAdventure.pdb

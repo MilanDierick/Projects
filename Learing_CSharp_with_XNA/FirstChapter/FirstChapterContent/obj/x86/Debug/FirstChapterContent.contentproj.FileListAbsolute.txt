@@ -1,0 +1,1 @@
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\Learing_CSharp_with_XNA\FirstChapter\FirstChapterContent\obj\x86\Debug\FirstChapterContent.contentprojResolveAssemblyReference.cache

@@ -27,11 +27,18 @@ namespace CalculatorConsole
         }
 
         //TODO: implement boolean return values
-        public void Calculate()
+        public void Calculate(List<float> list)
         {
-            foreach (int number in Numbers)
+            if (list == null)
             {
-                Result = Result + number;
+                foreach (int number in Numbers)
+                {
+                    Result = Result + number;
+                } 
+            }
+            else if(list != null)
+            {
+
             }
 
             Console.WriteLine("The result is: " + Result);

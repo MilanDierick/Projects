@@ -1,0 +1,10 @@
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\TownSimulator\FinanceTest\obj\Debug\FinanceTest.csprojResolveAssemblyReference.cache
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\TownSimulator\FinanceTest\bin\Debug\FinanceTest.dll
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\TownSimulator\FinanceTest\bin\Debug\FinanceTest.pdb
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\TownSimulator\FinanceTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\TownSimulator\FinanceTest\bin\Debug\TownSimulator.exe
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\TownSimulator\FinanceTest\bin\Debug\TownSimulatorEngine.dll
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\TownSimulator\FinanceTest\bin\Debug\TownSimulatorEngine.pdb
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\TownSimulator\FinanceTest\bin\Debug\TownSimulator.pdb
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\TownSimulator\FinanceTest\obj\Debug\FinanceTest.dll
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\TownSimulator\FinanceTest\obj\Debug\FinanceTest.pdb

@@ -1,0 +1,16 @@
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\Learing_CSharp_with_XNA\FirstChapter\FirstChapter\bin\x86\Debug\FirstChapter.exe
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\Learing_CSharp_with_XNA\FirstChapter\FirstChapter\bin\x86\Debug\FirstChapter.pdb
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\Learing_CSharp_with_XNA\FirstChapter\FirstChapter\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\Learing_CSharp_with_XNA\FirstChapter\FirstChapter\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\Learing_CSharp_with_XNA\FirstChapter\FirstChapter\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\Learing_CSharp_with_XNA\FirstChapter\FirstChapter\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\Learing_CSharp_with_XNA\FirstChapter\FirstChapter\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\Learing_CSharp_with_XNA\FirstChapter\FirstChapter\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\Learing_CSharp_with_XNA\FirstChapter\FirstChapter\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\Learing_CSharp_with_XNA\FirstChapter\FirstChapter\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\Learing_CSharp_with_XNA\FirstChapter\FirstChapter\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\Learing_CSharp_with_XNA\FirstChapter\FirstChapter\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\Learing_CSharp_with_XNA\FirstChapter\FirstChapter\obj\x86\Debug\FirstChapter.csprojResolveAssemblyReference.cache
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\Learing_CSharp_with_XNA\FirstChapter\FirstChapter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\Learing_CSharp_with_XNA\FirstChapter\FirstChapter\obj\x86\Debug\FirstChapter.exe
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\Learing_CSharp_with_XNA\FirstChapter\FirstChapter\obj\x86\Debug\FirstChapter.pdb

@@ -1,0 +1,30 @@
+Managing a city => Fase 1
+	managing finances
+	managing population
+	managing relations
+	managing goods -> industry?
+	managing political stuff
+		major
+		ministers		=> evolution of player -> starting out small, growing string over time
+		(presidents)
+	simple decisions managed by AI?
+		-> Events
+			Randomized
+			Triggered
+			grant system
+	managing policies
+	managing laws
+
+
+
+
+
+	GameLoop:
+		Start -> Player invests money in policies, populations, relations
+
+
+FINANCES
+currency: Euro
+Bank system?
+Each citizen has a bank account
+

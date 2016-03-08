@@ -34,6 +34,8 @@ namespace Rekenmachine
             Result += (Par1 + Par2);
 
             lblResult.Text = Result;
+
+
         }
 
         private void label1_Click(object sender, EventArgs e)

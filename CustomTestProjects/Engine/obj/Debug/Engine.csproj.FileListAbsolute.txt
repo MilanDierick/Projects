@@ -1,4 +1,0 @@
-C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\CustomTestProjects\Engine\bin\Debug\Engine.dll
-C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\CustomTestProjects\Engine\bin\Debug\Engine.pdb
-C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\CustomTestProjects\Engine\obj\Debug\Engine.dll
-C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\CustomTestProjects\Engine\obj\Debug\Engine.pdb
