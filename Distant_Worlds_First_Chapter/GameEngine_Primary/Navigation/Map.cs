@@ -14,7 +14,7 @@ namespace GameEngine_Primary
         // Constructor for the map class
         public Map()
         {
-            GenerateRandomMap(10, 10);
+            GenerateRandomMap(4, 4);
         }
 
         private bool GenerateRandomMap(int _MapWidth, int _MapHeight, Random _Random = null)

@@ -1,0 +1,91 @@
+________________Test_LOG________________
+
+Written in NotePad++.
+(RECOMMENDED)
+
+----------------12/04/2016---------------- --> Creation Date: 11/04/2016 <--
+-TestLog created.
+-Please test the following commands in the given order:
+	Press enter (to clear the screen and set the right colours).
+	Write test and press enter.
+		Following text should appear:
+			We are testing the program now.
+	Write 'list locations' (listing all the current created locations).
+		Something like this should appear: 
+			Friendly stage.
+			0
+			0
+			Friendly stage.
+			0
+			1
+			Hostile stage.
+			0
+			2
+			Hostile stage.
+			0
+			3
+			Hostile stage.
+			1
+			0
+			Hostile stage.
+			1
+			1
+			Shopping stage.
+			1
+			2
+			Hostile stage.
+			1
+			3
+			Shopping stage.
+			2
+			0
+			Hostile stage.
+			2
+			1
+			Friendly stage.
+			2
+			2
+			Friendly stage.
+			2
+			3
+			Hostile stage.
+			3
+			0
+			Hostile stage.
+			3
+			1
+			Hostile stage.
+			3
+			2
+			Hostile stage.
+			3
+			3
+	Write 'clear' (to clear the screen).
+	Write 'list enemy's' 
+		Following text shoudl appear:
+			There are no enemy's in this location!
+		Or
+			enemy1
+			enemy2
+	Write 'list friendly's'
+		Following text should appear:
+			There are no friendly's in this location!
+		Or
+			friendly1
+			friendly2
+	Write 'list shopkeeper'
+		Following text should appear:
+			There is no shop in this location!
+		Or
+			+		ShopKeeper	{GameEngine_Primary.Player}	GameEngine_Primary.Player
+	Write 'add weapon' twice
+	Write 'list inventory'
+		Following text should appear:
+			Laser is stored at slot 1
+			Laser is stored at slot 2
+	Write 'exit'
+	
+Noticed any strange things? Just report it to me so I can correct them.
+Thank you for your patience.
+Ps. Take a look at the Developer Log!
+			
