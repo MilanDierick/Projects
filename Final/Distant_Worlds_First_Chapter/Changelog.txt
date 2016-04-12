@@ -1,0 +1,149 @@
+________________DEVELOPER_LOG________________
+
+Written in NotePad++.
+(RECOMMENDED)
+
+----------------12/04/2016---------------- --> Creation Date: 08/04/2016 <--
+-DevLog created.
+-Engine being used: GameEngine_Primary
+	Did some thinking about my other engines, but this one is more suited to do the job I think. 
+	Some examples were: GameEngine_Secondary, The console based UnityEngine and last but not least my Logical_Primary and Logical_Secondary engines. 
+-Engine components being used (for now):
+	Location.cs
+	Map.cs
+	Stage.cs
+	Item.cs
+	Weapon.cs
+	Handler.cs --> Considering designing CombatHandler.cs, based on the fact of spreading command processing as much as possible.
+	Player.cs
+	System.cs --> class being used is named SystemCore (because it is specialized for console based programs, I could switch it out without too many problems if I decide to connect everyting up to a GUI.)
+-First Code Metrics Results
+	Distant_Worlds_First_Chapter (DEBUG)
+		Maint.: 79
+		Cycl.: 4
+		DoI.: 1
+		CC.: 3
+		LoC.: 6
+	GameEngine_Primary (DEBUG)
+		Maint.: 70
+		Cycl.: 60
+		DoI.: 2
+		CC.: 15
+		LoC.: 158
+-Mapping structure:
+	Map.cs
+		First encounter in hierarchy.
+		Predefines Player.cs, Enemy.cs, ShopZone.cs, Location.cs and Stage.cs.
+		Primary order of job system is creating and instanciating a world with given parameters:
+			int _MapWidth
+			int _MapHeight
+			Random _Random = null
+		Uses seme-randomization system that looks something like this (SIMPLIFIED):
+		
+		for (int x = 0; x < _MapWidth; x++)
+            {
+                for (int y = 0; y < _MapHeight; y++)
+                {
+                    int RandomValue = Random.Next(0, 100);
+                    Location _Location = new Location(x, y);
+
+                    if (RandomValue < 10)
+                    {
+                        _Location.SetupLocation(new Stage(2));
+                        ShopZoneCount++;
+                    }
+                    else if (RandomValue >= 10 && RandomValue < 80)
+                    {
+                        _Location.SetupLocation(new Stage(0));
+                        HostileLocationCount++;
+                    }
+                    else if (RandomValue >= 80 && RandomValue < 100)
+                    {
+                        _Location.SetupLocation(new Stage(1));
+                        FriendlyLocationCount++;
+                    }
+                    LocationList.Add(_Location);
+                }
+            }
+		
+		InClass debugging functions included, need to be removed later.
+	Location.cs
+		Second encounter in hierarchy.
+		Predefines Player.cs, Enemy.cs, ShopZone.cs and Stage.cs.
+		Primary order of job system is creating and instanciating a location with given parameters:
+			int _xpos
+			int _ypos
+			string _Description = "This is a default description for a Location."
+			Stage _Stage -->NOT AN ARRAY! IS INTENDED! <--
+			Uses following SetupFunction (SIMPLIFIED):
+				
+				public void SetupLocation(Stage _Stage)
+				{
+					if (Stage == null)
+					{
+						Stage = _Stage;
+					}
+					else
+					{
+						Console.WriteLine("Location is already setup, this is not supposed to happen, investigate!");
+					}
+				}
+			InClass debugging functions included, need to be removed later.
+	Stage.cs
+		
+		namespace GameEngine_Primary
+		{
+			public class Stage
+			{
+				// Make sure each kind of stage has his own description and it gets displayed propertly by the handler.
+				public List<Player> EnemyList = new List<Player>();
+				public List<Player> FriendlyList = new List<Player>();
+		
+				public Player ShopKeeper;
+
+				public Location CurrentStageLocation;
+
+				public string description;
+
+				private State CurrentStageState = State.Friendly;
+
+				private int StageLevel;
+
+				private enum State
+				{
+					Hostile, Friendly, ShopZone
+				}
+
+				public Stage(int _StageLevel)
+				{
+					ShopKeeper = new Player(false, CurrentStageLocation, "ShopKeeper");
+
+					if (_StageLevel == 0)
+					{
+						StageLevel = _StageLevel;
+						description = "Hostile stage.";
+						CurrentStageState = State.Hostile;
+						EnemyList.Add(new Player(false, CurrentStageLocation, "enemy1"));
+						EnemyList.Add(new Player(false, CurrentStageLocation, "enemy2"));
+					}
+					else if (_StageLevel == 1)
+					{
+						StageLevel = _StageLevel;
+						description = "Friendly stage.";
+						CurrentStageState = State.Friendly;
+						FriendlyList.Add(new Player(false, CurrentStageLocation, "friendly1"));
+						FriendlyList.Add(new Player(false, CurrentStageLocation, "friendly2"));
+					}
+					else if (_StageLevel == 2)
+					{
+						StageLevel = _StageLevel;
+						description = "Shopping stage.";
+						CurrentStageState = State.ShopZone;
+						ShopKeeper = new Player(false, CurrentStageLocation, "ShopKeeper");
+					}
+				}
+			}
+		}
+		
+	________________Work In Progress________________
+	
