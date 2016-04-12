@@ -1,0 +1,6 @@
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\SerializerProject\SerializerProject\bin\Debug\SerializerProject.exe.config
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\SerializerProject\SerializerProject\bin\Debug\SerializerProject.exe
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\SerializerProject\SerializerProject\bin\Debug\SerializerProject.pdb
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\SerializerProject\SerializerProject\obj\Debug\SerializerProject.csprojResolveAssemblyReference.cache
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\SerializerProject\SerializerProject\obj\Debug\SerializerProject.exe
+c:\users\milan\onedrive\dokumente\visual studio 2015\Projects\SerializerProject\SerializerProject\obj\Debug\SerializerProject.pdb

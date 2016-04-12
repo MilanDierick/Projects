@@ -1,0 +1,9 @@
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\PuntenProgram\bin\Debug\PuntenProgram.exe.config
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\PuntenProgram\bin\Debug\PuntenProgram.exe
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\PuntenProgram\bin\Debug\PuntenProgram.pdb
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\PuntenProgram\obj\Debug\PuntenProgram.csprojResolveAssemblyReference.cache
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\PuntenProgram\obj\Debug\PuntenProgram.Form1.resources
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\PuntenProgram\obj\Debug\PuntenProgram.Properties.Resources.resources
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\PuntenProgram\obj\Debug\PuntenProgram.csproj.GenerateResource.Cache
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\PuntenProgram\obj\Debug\PuntenProgram.exe
+C:\Users\milan\onedrive\dokumente\visual studio 2015\Projects\LessenInformatica\PuntenProgram\obj\Debug\PuntenProgram.pdb

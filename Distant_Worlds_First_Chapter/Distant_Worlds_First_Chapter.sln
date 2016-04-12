@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distant_Worlds_First_Chapter", "Distant_Worlds_First_Chapter\Distant_Worlds_First_Chapter.csproj", "{89505BF7-83C1-4CF6-9204-6F952AEA537B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngine_Primary", "GameEngine_Primary\GameEngine_Primary.csproj", "{5CAFB582-EE78-4C3E-99DC-7FF2C83A95BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89505BF7-83C1-4CF6-9204-6F952AEA537B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89505BF7-83C1-4CF6-9204-6F952AEA537B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89505BF7-83C1-4CF6-9204-6F952AEA537B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89505BF7-83C1-4CF6-9204-6F952AEA537B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CAFB582-EE78-4C3E-99DC-7FF2C83A95BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAFB582-EE78-4C3E-99DC-7FF2C83A95BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAFB582-EE78-4C3E-99DC-7FF2C83A95BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAFB582-EE78-4C3E-99DC-7FF2C83A95BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
